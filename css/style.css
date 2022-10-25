@@ -1,0 +1,15 @@
+.par {
+    /* The image used */
+ 
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #one{background-image: url("https://picsum.photos/id/1025/600/400");}
+  #two{background-image: url("https://picsum.photos/id/211/600/400");}
+  #three{background-image: url("https://picsum.photos/id/1020/600/400");}
